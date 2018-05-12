@@ -1,0 +1,36 @@
+_repo: Peter-Parley-s-Own-Story--Peter-Parley--_45165
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45165-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goodrich, Samuel G. (Samuel Griswold)
+    aliases:
+    - Parley, Peter
+    - Goodrich, Samuel Griswold
+    - Goodrich, S. G. (Samuel Griswold)
+    birthdate: 1793
+    deathdate: 1860
+    gutenberg_agent_id: '4027'
+    url: http://www.gutenberg.org/2009/agents/4027
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Griswold_Goodrich
+description: ''
+gutenberg_issued: '2014-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45165'
+  lccn: '28006587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcsh 'Goodrich, Samuel G. (Samuel Griswold), 1793-1860'
+- !lcsh 'Historians -- United States -- Biography'
+- !lcsh 'Ridgefield (Conn. : Town)'
+title: "Peter Parley's Own Story\r\nFrom the Personal Narrative of the Late Samuel\
+  \ G. Goodrich, (\"Peter Parley\")"
+url: http://www.gutenberg.org/ebooks/45165
